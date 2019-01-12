@@ -4,7 +4,7 @@ from pygame.time import get_ticks
 
 WIDTH = 480
 HEIGHT = 600
-TITLE = '---=== SPACE INVADERS ===---'
+TITLE = '---=== I'm you are fother ===---'
 PADDING = 40
 
 CANNON_SPEED = 5
